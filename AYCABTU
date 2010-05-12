@@ -2,7 +2,7 @@ git@github.com:bitmask/game-of-life-js.git
 git@github.com:ingydotnet/acmeism-org-site.git
 git@github.com:ingydotnet/acmeism-osdcfr2009-talk.git
 git@github.com:ingydotnet/acmeism-osdctw2010-talk.git
-git@github.com:ingydotnet/boolean-pm.git
+# git@github.com:ingydotnet/boolean-pm.git
 git@github.com:ingydotnet/bpan-org-site.git
 git@github.com:ingydotnet/cdent.git
 git@github.com:ingydotnet/cdent-org-site.git
@@ -14,7 +14,7 @@ git@github.com:ingydotnet/coglife-net-site.git
 git@github.com:ingydotnet/cogmind.git
 git@github.com:ingydotnet/cpanminus.git
 git@github.com:ingydotnet/dotdotdot.git
-git@github.com:ingydotnet/dotstack.git
+# git@github.com:ingydotnet/dotstack.git
 git@github.com:ingydotnet/error-errors-pm.git
 git@github.com:ingydotnet/helloword-acmeism-org-site.git
 git@github.com:ingydotnet/ingydotnet.github.com.git
@@ -39,14 +39,14 @@ git@github.com:ingydotnet/pyyaml-mirror.git
 git@github.com:ingydotnet/reparse-py.git
 git@github.com:ingydotnet/socialcog.git
 git@github.com:ingydotnet/socialtext-dot.git
-git@github.com:ingydotnet/spork-pm.git
+# git@github.com:ingydotnet/spork-pm.git
 git@github.com:ingydotnet/template-toolkit-simple-pm.git
 git@github.com:ingydotnet/test-base-js.git
 git@github.com:ingydotnet/test-base-pm.git
 git@github.com:ingydotnet/testml.git
 git@github.com:ingydotnet/testml-code.git
 git@github.com:ingydotnet/testml-grammar.git
-git@github.com:ingydotnet/testml-js.git
+# git@github.com:ingydotnet/testml-js.git
 git@github.com:ingydotnet/testml-org-site.git
 git@github.com:ingydotnet/testml-p6.git
 git@github.com:ingydotnet/testml-pdxpm2009-talk.git
@@ -56,11 +56,11 @@ git@github.com:ingydotnet/testml-tml.git
 git@github.com:ingydotnet/tiddlyweb.git
 git@github.com:ingydotnet/vroom-pm.git
 git@github.com:ingydotnet/web-scraper.git
-git@github.com:ingydotnet/wikitext-js.git
+# git@github.com:ingydotnet/wikitext-js.git
 git@github.com:ingydotnet/wikitext-pm.git
 git@github.com:ingydotnet/wikitext-py.git
 git@github.com:ingydotnet/wikitext-socialtext-pm.git
-git@github.com:ingydotnet/wikiwyg-js.git
+# git@github.com:ingydotnet/wikiwyg-js.git
 git@github.com:ingydotnet/wikiwyg-net-site.git
 git@github.com:ingydotnet/xxx-pm.git
 git@github.com:ingydotnet/xy-js.git
@@ -87,3 +87,4 @@ git@github.com:syhu/virtual-world-js.git
 git@github.com:xlogger/xlogger-org-site.git
 git@github.com:yaml/yaml-spec.git
 git@github.com:yaml/yaml.github.com.git
+http://svn.pyyaml.org/pyyaml/trunk
