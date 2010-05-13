@@ -1,90 +1,108 @@
-git@github.com:bitmask/game-of-life-js.git
-git@github.com:ingydotnet/acmeism-org-site.git
-git@github.com:ingydotnet/acmeism-osdcfr2009-talk.git
-git@github.com:ingydotnet/acmeism-osdctw2010-talk.git
-# git@github.com:ingydotnet/boolean-pm.git
-git@github.com:ingydotnet/bpan-org-site.git
-git@github.com:ingydotnet/cdent.git
-git@github.com:ingydotnet/cdent-org-site.git
-git@github.com:ingydotnet/cdent-seapig2010-talk.git
+# PyPi
+git@github.com:ingydotnet/package-py.git
+git@github.com:ingydotnet/pyplay-py.git
+git@github.com:ingydotnet/reparse-py.git
+git@github.com:ingydotnet/wikitext-py.git
+
+# CPAN
 git@github.com:ingydotnet/class-field-pm.git
-git@github.com:ingydotnet/class-js.git
-git@github.com:ingydotnet/cogbase-org-site.git
-git@github.com:ingydotnet/coglife-net-site.git
-git@github.com:ingydotnet/cogmind.git
-git@github.com:ingydotnet/cpanminus.git
-git@github.com:ingydotnet/dotdotdot.git
-# git@github.com:ingydotnet/dotstack.git
 git@github.com:ingydotnet/error-errors-pm.git
-git@github.com:ingydotnet/helloword-acmeism-org-site.git
-git@github.com:ingydotnet/ingydotnet.github.com.git
 git@github.com:ingydotnet/inline-pm.git
 git@github.com:ingydotnet/io-all-pm.git
-git@github.com:ingydotnet/jemplate.git
-git@github.com:ingydotnet/jsync.git
-git@github.com:ingydotnet/jsync-org-site.git
-git@github.com:ingydotnet/kwiki.git
-git@github.com:ingydotnet/kwim-org-site.git
-git@github.com:ingydotnet/libyaml-mirror.git
-git@github.com:ingydotnet/mmm.git
 git@github.com:ingydotnet/module-makemaker-pm.git
-git@github.com:ingydotnet/package-py.git
 git@github.com:ingydotnet/pointer-pm.git
-git@github.com:ingydotnet/pquery-org-site.git
 git@github.com:ingydotnet/pquery-pm.git
-git@github.com:ingydotnet/project-site.git
-git@github.com:ingydotnet/projects-ingy-net-site.git
-git@github.com:ingydotnet/pyplay-py.git
-git@github.com:ingydotnet/pyyaml-mirror.git
-git@github.com:ingydotnet/reparse-py.git
-git@github.com:ingydotnet/socialcog.git
-git@github.com:ingydotnet/socialtext-dot.git
-# git@github.com:ingydotnet/spork-pm.git
 git@github.com:ingydotnet/template-toolkit-simple-pm.git
-git@github.com:ingydotnet/test-base-js.git
 git@github.com:ingydotnet/test-base-pm.git
+git@github.com:ingydotnet/vroom-pm.git
+git@github.com:ingydotnet/wikitext-pm.git
+git@github.com:ingydotnet/wikitext-socialtext-pm.git
+git@github.com:ingydotnet/xxx-pm.git
+git@github.com:ingydotnet/yaml-libyaml-pm.git
+git@github.com:ingydotnet/yaml-manual-pm.git
+git@github.com:ingydotnet/yaml-old-pm.git
+git@github.com:ingydotnet/yaml-perl-pm.git
+git@github.com:ingydotnet/yaml-pm.git
+git@github.com:ingydotnet/yaml-shell-pm.git
+git@github.com:ingydotnet/yaml2-pm.git
+
+# JSAN
+git@github.com:ingydotnet/class-js.git
+git@github.com:ingydotnet/test-base-js.git
+git@github.com:ingydotnet/xy-js.git
+git@github.com:ingydotnet/yaml-js.git
+
+# TestML
 git@github.com:ingydotnet/testml.git
 git@github.com:ingydotnet/testml-code.git
 git@github.com:ingydotnet/testml-grammar.git
-# git@github.com:ingydotnet/testml-js.git
-git@github.com:ingydotnet/testml-org-site.git
 git@github.com:ingydotnet/testml-p6.git
-git@github.com:ingydotnet/testml-pdxpm2009-talk.git
 git@github.com:ingydotnet/testml-pm.git
 git@github.com:ingydotnet/testml-py.git
 git@github.com:ingydotnet/testml-tml.git
-git@github.com:ingydotnet/tiddlyweb.git
-git@github.com:ingydotnet/vroom-pm.git
-git@github.com:ingydotnet/web-scraper.git
-# git@github.com:ingydotnet/wikitext-js.git
-git@github.com:ingydotnet/wikitext-pm.git
-git@github.com:ingydotnet/wikitext-py.git
-git@github.com:ingydotnet/wikitext-socialtext-pm.git
-# git@github.com:ingydotnet/wikiwyg-js.git
+
+# Web Sites
+git@github.com:ingydotnet/acmeism-org-site.git
+git@github.com:ingydotnet/bpan-org-site.git
+git@github.com:ingydotnet/cdent-org-site.git
+git@github.com:ingydotnet/cogbase-org-site.git
+git@github.com:ingydotnet/coglife-net-site.git
+git@github.com:ingydotnet/helloword-acmeism-org-site.git
+git@github.com:ingydotnet/jsync-org-site.git
+git@github.com:ingydotnet/kwim-org-site.git
+git@github.com:ingydotnet/pquery-org-site.git
+git@github.com:ingydotnet/project-site.git
+git@github.com:ingydotnet/projects-ingy-net-site.git
+git@github.com:ingydotnet/testml-org-site.git
 git@github.com:ingydotnet/wikiwyg-net-site.git
-git@github.com:ingydotnet/xxx-pm.git
-git@github.com:ingydotnet/xy-js.git
-git@github.com:ingydotnet/yaml-book.git
-git@github.com:ingydotnet/yaml-js.git
-git@github.com:ingydotnet/yaml-libyaml-pm.git
-git@github.com:ingydotnet/yaml-manual-pm.git
-git@github.com:ingydotnet/yaml-npw2009-talk.git
-git@github.com:ingydotnet/yaml-old-pm.git
-git@github.com:ingydotnet/yaml-oscon2009-talk.git
-git@github.com:ingydotnet/yaml-perl-pm.git
-git@github.com:ingydotnet/yaml-pgh2009-talk.git
-git@github.com:ingydotnet/yaml-pm.git
-git@github.com:ingydotnet/yaml-shell-pm.git
-git@github.com:ingydotnet/yaml-tml.git
-git@github.com:ingydotnet/yaml-vim.git
-git@github.com:ingydotnet/yaml2-pm.git
-git@github.com:ingydotnet/yaml_vim.git
-git@github.com:ingydotnet/yaros.git
 git@github.com:ingydotnet/zorkwiki-org-site.git
+git@github.com:xlogger/xlogger-org-site.git
+
+# Projects
+git@github.com:ingydotnet/cdent.git
+git@github.com:ingydotnet/dotdotdot.git
+git@github.com:ingydotnet/ingydotnet.github.com.git
+git@github.com:ingydotnet/jemplate.git
+git@github.com:ingydotnet/jsync.git
+git@github.com:ingydotnet/kwiki.git
+
+# Others
+git@github.com:ingydotnet/cogmind.git
+git@github.com:ingydotnet/mmm.git
+git@github.com:ingydotnet/socialcog.git
+git@github.com:ingydotnet/socialtext-dot.git
+git@github.com:ingydotnet/web-scraper.git
+
+# Following
+git@github.com:ingydotnet/cpanminus.git
+git@github.com:ingydotnet/tiddlyweb.git
+
+# PyYaml
+http://svn.pyyaml.org/pyyaml/trunk
+git@github.com:ingydotnet/pyyaml-mirror.git
+git@github.com:ingydotnet/libyaml-mirror.git
+
+# Fun and Pairing
 git@github.com:lucykee/stars.git
 git@github.com:stupakov/browgle.git
+git@github.com:bitmask/game-of-life-js.git
 git@github.com:syhu/virtual-world-js.git
-git@github.com:xlogger/xlogger-org-site.git
-git@github.com:yaml/yaml-spec.git
-git@github.com:yaml/yaml.github.com.git
-http://svn.pyyaml.org/pyyaml/trunk
+git@github.com:ingydotnet/yaros.git
+
+# Talks
+git@github.com:ingydotnet/package-seapig2010-talk.git
+git@github.com:ingydotnet/acmeism-osdctw2010-talk.git
+git@github.com:ingydotnet/cdent-seapig2010-talk.git
+git@github.com:ingydotnet/acmeism-osdcfr2009-talk.git
+git@github.com:ingydotnet/yaml-oscon2009-talk.git
+git@github.com:ingydotnet/yaml-pgh2009-talk.git
+git@github.com:ingydotnet/testml-pdxpm2009-talk.git
+git@github.com:ingydotnet/yaml-npw2009-talk.git
+
+# Empty
+# git@github.com:ingydotnet/boolean-pm.git
+# git@github.com:ingydotnet/dotstack.git
+# git@github.com:ingydotnet/spork-pm.git
+# git@github.com:ingydotnet/testml-js.git
+# git@github.com:ingydotnet/wikitext-js.git
+# git@github.com:ingydotnet/wikiwyg-js.git
