@@ -1,14 +1,17 @@
 # Example
-- repo: git@github.com:ingydotnet/foo-bar.git
-  tags: foo bar
-  type: git
-  name: foo-bar
+# - repo: git@github.com:ingydotnet/foo-bar.git
+#   tags: foo bar
+#   type: git
+#   name: foo-bar
+#   skip: true
+#   last: true
 
 # PyPi
 - repo: git@github.com:ingydotnet/cogbase-py.git
+  skip: true
   tags: python pypi
 - repo: git@github.com:ingydotnet/package-py.git
-  tags: python pypi
+  tags: python pypi current
 - repo: git@github.com:ingydotnet/pyplay-py.git
   tags: python pypi
 - repo: git@github.com:ingydotnet/reparse-py.git
@@ -17,6 +20,8 @@
   tags: python pypi
 
 # CPAN
+- repo: git@github.com:ingydotnet/app-aycabtu-pm.git
+  tags: perl cpan ayc current
 - repo: git@github.com:ingydotnet/boolean-pm.git
   tags: perl cpan
 - repo: git@github.com:ingydotnet/class-field-pm.git
@@ -26,7 +31,7 @@
 - repo: git@github.com:ingydotnet/inline-pm.git
   tags: perl cpan
 - repo: git@github.com:ingydotnet/io-all-pm.git
-  tags: perl cpan
+  tags: perl cpan current
 - repo: git@github.com:ingydotnet/module-makemaker-pm.git
   tags: perl cpan
 - repo: git@github.com:ingydotnet/pointer-pm.git
@@ -70,6 +75,16 @@
 - repo: git@github.com:ingydotnet/yaml-js.git
   tags: js
 
+# Pegex
+- repo: git@github.com:ingydotnet/pegex-pgx.git
+  tags: pegex
+- repo: git@github.com:ingydotnet/pegex-pm.git
+  tags: pegex perl
+- repo: git@github.com:ingydotnet/pegex-py.git
+  tags: pegex python
+- repo: git@github.com:ingydotnet/pegex-tml.git
+  tags: pegex
+
 # TestML
 - repo: git@github.com:ingydotnet/testml.git
   tags: testml
@@ -88,20 +103,35 @@
 
 # Web Sites
 - repo: git@github.com:ingydotnet/acmeism-org-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/bpan-org-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/cdent-org-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/cogbase-org-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/coglife-net-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/helloword-acmeism-org-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/jsync-org-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/kwim-org-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/pquery-org-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/project-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/projects-ingy-net-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/testml-org-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/wikiwyg-net-site.git
+  tags: site
 - repo: git@github.com:ingydotnet/zorkwiki-org-site.git
+  tags: site
 - repo: git@github.com:xlogger/xlogger-org-site.git
+  tags: site
 
 # Projects
 - repo: git@github.com:ingydotnet/cdent.git
@@ -125,25 +155,41 @@
 
 # PyYaml
 - repo: http://svn.pyyaml.org/pyyaml/trunk
+  tags: pyyaml yaml
 - repo: git@github.com:ingydotnet/pyyaml-mirror.git
+  tags: pyyaml yaml
 - repo: git@github.com:ingydotnet/libyaml-mirror.git
+  tags: pyyaml yaml
 
 # Fun and Pairing
 - repo: git@github.com:lucykee/stars.git
+  tags: fun
 - repo: git@github.com:stupakov/browgle.git
+  tags: fun
 - repo: git@github.com:bitmask/game-of-life-js.git
+  tags: fun
 - repo: git@github.com:syhu/virtual-world-js.git
+  tags: fun
 - repo: git@github.com:ingydotnet/yaros.git
+  tags: fun
 
 # Talks
 - repo: git@github.com:ingydotnet/package-seapig2010-talk.git
+  tag: talk
 - repo: git@github.com:ingydotnet/acmeism-osdctw2010-talk.git
+  tag: talk
 - repo: git@github.com:ingydotnet/cdent-seapig2010-talk.git
+  tag: talk
 - repo: git@github.com:ingydotnet/acmeism-osdcfr2009-talk.git
+  tag: talk
 - repo: git@github.com:ingydotnet/yaml-oscon2009-talk.git
+  tag: talk
 - repo: git@github.com:ingydotnet/yaml-pgh2009-talk.git
+  tag: talk
 - repo: git@github.com:ingydotnet/testml-pdxpm2009-talk.git
+  tag: talk
 - repo: git@github.com:ingydotnet/yaml-npw2009-talk.git
+  tag: talk
 
 # Empty
 # - repo: git@github.com:ingydotnet/dotstack.git
