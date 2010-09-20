@@ -6,6 +6,9 @@
 #   skip: true
 #   last: true
 
+- repo: git@github.com:ingydotnet/aycabt-ingydotnet.git
+  tags: aycabtu current
+
 # PyPi
 - repo: git@github.com:ingydotnet/cogbase-py.git
   skip: true
@@ -21,7 +24,7 @@
 
 # CPAN
 - repo: git@github.com:ingydotnet/app-aycabtu-pm.git
-  tags: perl cpan ayc current
+  tags: perl cpan aycabtu current
 - repo: git@github.com:ingydotnet/boolean-pm.git
   tags: perl cpan
 - repo: git@github.com:ingydotnet/class-field-pm.git
