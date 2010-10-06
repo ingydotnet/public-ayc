@@ -85,8 +85,8 @@
   tags: pegex perl
 - repo: git@github.com:ingydotnet/pegex-py.git
   tags: pegex python
-- repo: git@github.com:ingydotnet/pegex-tml.git
-  tags: pegex
+# - repo: git@github.com:ingydotnet/pegex-tml.git
+#   tags: pegex
 
 # TestML
 - repo: git@github.com:ingydotnet/testml.git
@@ -95,7 +95,7 @@
   tags: testml
 - repo: git@github.com:ingydotnet/testml-pgx.git
   tags: testml pegex
-- repo: git@github.com:ingydotnet/testml-p6.git
+- repo: git@github.com:ingydotnet/testml-pm6.git
   tags: testml perl6
 - repo: git@github.com:ingydotnet/testml-pm.git
   tags: testml perl
@@ -141,7 +141,6 @@
 - repo: git@github.com:ingydotnet/dotdotdot.git
 - repo: git@github.com:ingydotnet/ingydotnet.github.com.git
 - repo: git@github.com:ingydotnet/jemplate.git
-- repo: git@github.com:ingydotnet/jsync.git
 - repo: git@github.com:ingydotnet/kwiki.git
 
 # Others
