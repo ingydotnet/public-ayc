@@ -23,6 +23,10 @@
   tags: python pypi
 
 # CPAN
+- repo: git@github.com:ingydotnet/mousse-pm.git
+  tags: perl cpan oo
+- repo: git@github.com:ingydotnet/gloom-pm.git
+  tags: perl cpan oo
 - repo: git@github.com:ingydotnet/app-aycabtu-pm.git
   tags: perl cpan aycabtu current
 - repo: git@github.com:ingydotnet/boolean-pm.git
