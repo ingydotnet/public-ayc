@@ -8,39 +8,39 @@
 
 - repo: git@github.com:ingydotnet/aycabt-ingydotnet.git
   tags: aycabtu current
+- repo: ingy.net:git/notes.git
 
 # PyPi
-- repo: git@github.com:ingydotnet/cogbase-py.git
-  skip: true
-  tags: python pypi
 - repo: git@github.com:ingydotnet/package-py.git
   tags: python pypi current
 - repo: git@github.com:ingydotnet/pyplay-py.git
   tags: python pypi
-- repo: git@github.com:ingydotnet/reparse-py.git
-  tags: python pypi
-- repo: git@github.com:ingydotnet/wikitext-py.git
-  tags: python pypi
 
 # CPAN
-- repo: git@github.com:ingydotnet/mousse-pm.git
-  tags: perl cpan oo
-- repo: git@github.com:ingydotnet/gloom-pm.git
-  tags: perl cpan oo
+- repo: git@github.com:ingydotnet/acme-ybfod-pm.git
+  tags: perl cpan acme
 - repo: git@github.com:ingydotnet/app-aycabtu-pm.git
   tags: perl cpan aycabtu current
 - repo: git@github.com:ingydotnet/boolean-pm.git
   tags: perl cpan
 - repo: git@github.com:ingydotnet/class-field-pm.git
   tags: perl cpan
+- repo: git@github.com:ingydotnet/cogbase-pm.git
+  tags: perl cpan
 - repo: git@github.com:ingydotnet/error-errors-pm.git
   tags: perl cpan
+- repo: git@github.com:ingydotnet/gloom-pm.git
+  tags: perl cpan oo
 - repo: git@github.com:ingydotnet/inline-pm.git
   tags: perl cpan
 - repo: git@github.com:ingydotnet/io-all-pm.git
   tags: perl cpan current
-- repo: git@github.com:ingydotnet/module-makemaker-pm.git
+- repo: git@github.com:ingydotnet/module-install-ackxxx-pm.git
+- repo: git@github.com:ingydotnet/module-install-manifestskip-pm.git
+- repo: git@github.com:ingydotnet/module-install-versioncheck-pm.git
   tags: perl cpan
+- repo: git@github.com:ingydotnet/mousse-pm.git
+  tags: perl cpan oo
 - repo: git@github.com:ingydotnet/pointer-pm.git
   tags: perl cpan
 - repo: git@github.com:ingydotnet/pquery-pm.git
@@ -71,6 +71,12 @@
   tags: perl cpan
 - repo: git@github.com:ingydotnet/yaml2-pm.git
   tags: perl cpan
+
+# Perl 6
+- repo: git@github.com:ingydotnet/xxx-pm6.git
+  tags: xxx
+- repo: git@github.com:ingydotnet/yaml-pm6.git
+  tags: yaml
 
 # JSAN
 - repo: git@github.com:ingydotnet/class-js.git
@@ -107,6 +113,30 @@
   tags: testml python
 - repo: git@github.com:ingydotnet/testml-tml.git
   tags: testml
+
+# JSYNC
+- repo: git@github.com:ingydotnet/jsync-pm.git
+  tags: jsync perl
+- repo: git@github.com:ingydotnet/jsync-py.git
+  tags: jsync python
+- repo: git@github.com:ingydotnet/jsync-spec.git
+  tags: jsync spec
+- repo: git@github.com:ingydotnet/jsync-tml.git
+  tags: jsync testml
+
+# YAML
+- repo: git@github.com:ingydotnet/yaml-book.git
+  tags: yaml
+- repo: git@github.com:ingydotnet/yaml-pgx.git
+  tags: yaml
+- repo: git@github.com:ingydotnet/yaml-tml.git
+  tags: yaml
+- repo: git@github.com:ingydotnet/yaml-vim.git
+  tags: yaml
+- repo: git@github.com:ingydotnet/yaml3-pm.git
+  tags: yaml
+- repo: git@github.com:ingydotnet/yaml_vim.git
+  tags: yaml
 
 # Web Sites
 - repo: git@github.com:ingydotnet/acmeism-org-site.git
@@ -147,17 +177,27 @@
 - repo: git@github.com:ingydotnet/jemplate.git
 - repo: git@github.com:ingydotnet/kwiki.git
 
-# Others
+# Others XXX Delete some of these
 - repo: git@github.com:ingydotnet/cogmind.git
-- repo: git@github.com:ingydotnet/mmm.git
 - repo: git@github.com:ingydotnet/socialcog.git
 - repo: git@github.com:ingydotnet/socialtext-dot.git
 - repo: git@github.com:ingydotnet/web-scraper.git
+- repo: git@github.com:ingydotnet/ingy-xlog.git
+- repo: git@github.com:ingydotnet/coglife-js.git
+
+# Forks
+- repo: git@github.com:ingydotnet/cpanminus.git
+  tags: cpan fork miyagawa
+- repo: git@github.com:ingydotnet/tiddlyweb.git
+  tags: python cdent
+- repo: git@github.com:ingydotnet/YAML-Syck.git
+  tags: yaml perl syck avar
+- repo: git@github.com:ingydotnet/ajaxterm.git
+  tags: hacktive
 
 # Following
-- repo: git@github.com:ingydotnet/cpanminus.git
-- repo: git@github.com:ingydotnet/tiddlyweb.git
 - repo: git://git.torproject.org/git/tor
+  tags: notgh
 
 # PyYaml
 - repo: http://svn.pyyaml.org/pyyaml/trunk
@@ -196,10 +236,12 @@
   tag: talk
 - repo: git@github.com:ingydotnet/yaml-npw2009-talk.git
   tag: talk
+- repo: git@github.com:ingydotnet/freeingydotnet-yapcna2010-talk.git
+- repo: git@github.com:ingydotnet/acmeism-pdxpm2010-talk.git
+- repo: git@github.com:ingydotnet/acmeism-spug2010-talk.git
+- repo: git@github.com:ingydotnet/acmeism-yapcna2010-talk.git
 
 # Empty
-# - repo: git@github.com:ingydotnet/dotstack.git
 # - repo: git@github.com:ingydotnet/spork-pm.git
 # - repo: git@github.com:ingydotnet/testml-js.git
-# - repo: git@github.com:ingydotnet/wikitext-js.git
 # - repo: git@github.com:ingydotnet/wikiwyg-js.git
