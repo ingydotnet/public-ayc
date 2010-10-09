@@ -247,6 +247,8 @@
   tags: talk
 - repo: git@github.com:ingydotnet/mousse-gloom-ppw2010-talk.git
   tags: talk
+- repo: git@github.com:ingydotnet/pegex-ppw2010-talk.git
+  tags: talk
 
 # Empty
 # - repo: git@github.com:ingydotnet/spork-pm.git
