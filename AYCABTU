@@ -222,25 +222,31 @@
 
 # Talks
 - repo: git@github.com:ingydotnet/package-seapig2010-talk.git
-  tag: talk
+  tags: talk
 - repo: git@github.com:ingydotnet/acmeism-osdctw2010-talk.git
-  tag: talk
+  tags: talk
 - repo: git@github.com:ingydotnet/cdent-seapig2010-talk.git
-  tag: talk
+  tags: talk
 - repo: git@github.com:ingydotnet/acmeism-osdcfr2009-talk.git
-  tag: talk
+  tags: talk
 - repo: git@github.com:ingydotnet/yaml-oscon2009-talk.git
-  tag: talk
+  tags: talk
 - repo: git@github.com:ingydotnet/yaml-pgh2009-talk.git
-  tag: talk
+  tags: talk
 - repo: git@github.com:ingydotnet/testml-pdxpm2009-talk.git
-  tag: talk
+  tags: talk
 - repo: git@github.com:ingydotnet/yaml-npw2009-talk.git
-  tag: talk
+  tags: talk
 - repo: git@github.com:ingydotnet/freeingydotnet-yapcna2010-talk.git
+  tags: talk
 - repo: git@github.com:ingydotnet/acmeism-pdxpm2010-talk.git
+  tags: talk
 - repo: git@github.com:ingydotnet/acmeism-spug2010-talk.git
+  tags: talk
 - repo: git@github.com:ingydotnet/acmeism-yapcna2010-talk.git
+  tags: talk
+- repo: git@github.com:ingydotnet/mousse-gloom-ppw2010-talk.git
+  tags: talk
 
 # Empty
 # - repo: git@github.com:ingydotnet/spork-pm.git
