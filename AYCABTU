@@ -180,7 +180,6 @@
 # Others XXX Delete some of these
 - repo: git@github.com:ingydotnet/cogmind.git
 - repo: git@github.com:ingydotnet/socialcog.git
-- repo: git@github.com:ingydotnet/socialtext-dot.git
 - repo: git@github.com:ingydotnet/web-scraper.git
 - repo: git@github.com:ingydotnet/ingy-xlog.git
 - repo: git@github.com:ingydotnet/coglife-js.git
