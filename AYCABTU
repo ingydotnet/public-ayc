@@ -197,10 +197,12 @@
 # Following
 - repo: git://git.torproject.org/git/tor
   tags: notgh
+  skip: 1
 
 # PyYaml
 - repo: http://svn.pyyaml.org/pyyaml/trunk
   tags: pyyaml yaml
+  skip: 1
 - repo: git@github.com:ingydotnet/pyyaml-mirror.git
   tags: pyyaml yaml
 - repo: git@github.com:ingydotnet/libyaml-mirror.git
