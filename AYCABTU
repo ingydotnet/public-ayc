@@ -198,6 +198,9 @@
 - repo: git://git.torproject.org/git/tor
   tags: notgh
   skip: 1
+- repo: git@github.com:rakudo/star.git
+  name: rakudo-star
+  tags: rakudo perl6
 
 # PyYaml
 - repo: http://svn.pyyaml.org/pyyaml/trunk
