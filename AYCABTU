@@ -7,168 +7,135 @@
 #   last: true
 
 - repo: git@github.com:ingydotnet/aycabt-ingydotnet.git
-  tags: aycabtu current
+  tags: aycabtu
 - repo: ingy.net:git/notes.git
 
 # PyPi
 - repo: git@github.com:ingydotnet/package-py.git
-  tags: python pypi current
+  tags: pypi
 - repo: git@github.com:ingydotnet/pyplay-py.git
-  tags: python pypi
+  tags: pypi
 
 # CPAN
 - repo: git@github.com:ingydotnet/acme-ybfod-pm.git
-  tags: perl cpan acme
+  tags: cpan
 - repo: git@github.com:ingydotnet/app-aycabtu-pm.git
-  tags: perl cpan aycabtu current
+  tags: cpan aycabtu
 - repo: git@github.com:ingydotnet/boolean-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/class-field-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/cogbase-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/error-errors-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/gloom-pm.git
-  tags: perl cpan oo
+  tags: cpan oo
 - repo: git@github.com:ingydotnet/inline-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/io-all-pm.git
-  tags: perl cpan current
+  tags: cpan
 - repo: git@github.com:ingydotnet/module-install-ackxxx-pm.git
+  tags: cpan
 - repo: git@github.com:ingydotnet/module-install-manifestskip-pm.git
+  tags: cpan
 - repo: git@github.com:ingydotnet/module-install-versioncheck-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/mousse-pm.git
-  tags: perl cpan oo
+  tags: cpan oo
 - repo: git@github.com:ingydotnet/pointer-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/pquery-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/template-toolkit-simple-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/test-base-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/vroom-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/wikitext-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/wikitext-socialtext-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/xxx-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/yaml-libyaml-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/yaml-manual-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/yaml-old-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/yaml-perl-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/yaml-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/yaml-shell-pm.git
-  tags: perl cpan
+  tags: cpan
 - repo: git@github.com:ingydotnet/yaml2-pm.git
-  tags: perl cpan
+  tags: cpan
 
 # Perl 6
 - repo: git@github.com:ingydotnet/xxx-pm6.git
-  tags: xxx
 - repo: git@github.com:ingydotnet/yaml-pm6.git
-  tags: yaml
 
 # JSAN
 - repo: git@github.com:ingydotnet/class-js.git
-  tags: js
 - repo: git@github.com:ingydotnet/test-base-js.git
-  tags: js
 - repo: git@github.com:ingydotnet/xy-js.git
-  tags: js
 - repo: git@github.com:ingydotnet/yaml-js.git
-  tags: js
 
 # Pegex
 - repo: git@github.com:ingydotnet/pegex-pgx.git
-  tags: pegex
 - repo: git@github.com:ingydotnet/pegex-pm.git
-  tags: pegex perl
 - repo: git@github.com:ingydotnet/pegex-py.git
-  tags: pegex python
 # - repo: git@github.com:ingydotnet/pegex-tml.git
-#   tags: pegex
 
 # TestML
 - repo: git@github.com:ingydotnet/testml.git
-  tags: testml
 - repo: git@github.com:ingydotnet/testml-code.git
-  tags: testml
 - repo: git@github.com:ingydotnet/testml-pgx.git
-  tags: testml pegex
 - repo: git@github.com:ingydotnet/testml-pm6.git
-  tags: testml perl6
 - repo: git@github.com:ingydotnet/testml-pm.git
-  tags: testml perl
 - repo: git@github.com:ingydotnet/testml-py.git
-  tags: testml python
 - repo: git@github.com:ingydotnet/testml-tml.git
-  tags: testml
 
 # JSYNC
 - repo: git@github.com:ingydotnet/jsync-pm.git
-  tags: jsync perl
 - repo: git@github.com:ingydotnet/jsync-py.git
-  tags: jsync python
 - repo: git@github.com:ingydotnet/jsync-spec.git
-  tags: jsync spec
 - repo: git@github.com:ingydotnet/jsync-tml.git
-  tags: jsync testml
 
 # YAML
 - repo: git@github.com:ingydotnet/yaml-book.git
-  tags: yaml
 - repo: git@github.com:ingydotnet/yaml-pgx.git
-  tags: yaml
 - repo: git@github.com:ingydotnet/yaml-tml.git
-  tags: yaml
 - repo: git@github.com:ingydotnet/yaml-vim.git
-  tags: yaml
 - repo: git@github.com:ingydotnet/yaml3-pm.git
-  tags: yaml
 - repo: git@github.com:ingydotnet/yaml_vim.git
-  tags: yaml
+
+# Project Wikis
+- repo: git@github.com:ingydotnet/testml.wiki.git
+- repo: git@github.com:ingydotnet/cogbase.wiki.git
+- repo: git@github.com:ingydotnet/cogbase.wiki.git
+- repo: git@github.com:ingydotnet/acmeism-org-site.wiki.git
+  name: acmeism-wiki
 
 # Web Sites
 - repo: git@github.com:ingydotnet/acmeism-org-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/bpan-org-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/cdent-org-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/cogbase-org-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/coglife-net-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/helloword-acmeism-org-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/jsync-org-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/kwim-org-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/pquery-org-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/project-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/projects-ingy-net-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/testml-org-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/wikiwyg-net-site.git
-  tags: site
 - repo: git@github.com:ingydotnet/zorkwiki-org-site.git
-  tags: site
 - repo: git@github.com:xlogger/xlogger-org-site.git
-  tags: site
 
 # Projects
 - repo: git@github.com:ingydotnet/cdent.git
@@ -196,20 +163,21 @@
 
 # Following
 - repo: git://git.torproject.org/git/tor
-  tags: notgh
   skip: 1
 - repo: git@github.com:rakudo/star.git
   name: rakudo-star
   tags: rakudo perl6
+- repo: http://github.com/github/gollum.git
+  tags: wiki github
 
 # PyYaml
 - repo: http://svn.pyyaml.org/pyyaml/trunk
-  tags: pyyaml yaml
+  tags: yaml
   skip: 1
 - repo: git@github.com:ingydotnet/pyyaml-mirror.git
-  tags: pyyaml yaml
+  tags: yaml
 - repo: git@github.com:ingydotnet/libyaml-mirror.git
-  tags: pyyaml yaml
+  tags: yaml
 
 # Fun and Pairing
 - repo: git@github.com:lucykee/stars.git
@@ -225,35 +193,20 @@
 
 # Talks
 - repo: git@github.com:ingydotnet/package-seapig2010-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/acmeism-osdctw2010-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/cdent-seapig2010-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/acmeism-osdcfr2009-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/yaml-oscon2009-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/yaml-pgh2009-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/testml-pdxpm2009-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/yaml-npw2009-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/freeingydotnet-yapcna2010-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/acmeism-pdxpm2010-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/acmeism-spug2010-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/acmeism-yapcna2010-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/mousse-gloom-ppw2010-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/pegex-ppw2010-talk.git
-  tags: talk
 - repo: git@github.com:ingydotnet/aycabtu-ppw2010-talk.git
-  tags: talk
 
 # Empty
 # - repo: git@github.com:ingydotnet/spork-pm.git
