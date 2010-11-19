@@ -32,6 +32,8 @@
   tags: cpan oo
 - repo: git@github.com:ingydotnet/inline-pm.git
   tags: cpan
+- repo: git@github.com:ingydotnet/inline-yaml-pm.git
+  tags: cpan
 - repo: git@github.com:ingydotnet/io-all-pm.git
   tags: cpan
 - repo: git@github.com:ingydotnet/module-install-ackxxx-pm.git
@@ -206,6 +208,7 @@
 - repo: git@github.com:ingydotnet/mousse-gloom-ppw2010-talk.git
 - repo: git@github.com:ingydotnet/pegex-ppw2010-talk.git
 - repo: git@github.com:ingydotnet/aycabtu-ppw2010-talk.git
+- repo: git@github.com:ingydotnet/dotdotdot-melbournepm2010-talk.git
 
 # Empty
 # - repo: git@github.com:ingydotnet/spork-pm.git
