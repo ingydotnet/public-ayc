@@ -6,9 +6,8 @@
 #   skip: true
 #   last: true
 
-- repo: git@github.com:ingydotnet/aycabt-ingydotnet.git
+- repo: git@github.com:ingydotnet/aycabtu-public.git
   tags: aycabtu
-- repo: ingy.net:git/notes.git
 
 # PyPi
 - repo: git@github.com:ingydotnet/package-py.git
