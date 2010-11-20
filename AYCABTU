@@ -7,7 +7,14 @@
 #   last: true
 
 - repo: git@github.com:ingydotnet/aycabtu-public.git
-  tags: aycabtu
+  tags: sync
+
+# DotDotDot
+- repo: git@github.com:ingydotnet/dotdotdot.git
+  tags: sync
+- repo: git@github.com:ingydotnet/ingy-dots.git
+  tags: sync dotdotdot
+
 
 # PyPi
 - repo: git@github.com:ingydotnet/package-py.git
@@ -19,7 +26,7 @@
 - repo: git@github.com:ingydotnet/acme-ybfod-pm.git
   tags: cpan
 - repo: git@github.com:ingydotnet/app-aycabtu-pm.git
-  tags: cpan aycabtu
+  tags: cpan sync
 - repo: git@github.com:ingydotnet/boolean-pm.git
   tags: cpan
 - repo: git@github.com:ingydotnet/class-field-pm.git
@@ -140,7 +147,6 @@
 
 # Projects
 - repo: git@github.com:ingydotnet/cdent.git
-- repo: git@github.com:ingydotnet/dotdotdot.git
 - repo: git@github.com:ingydotnet/ingydotnet.github.com.git
 - repo: git@github.com:ingydotnet/jemplate.git
 - repo: git@github.com:ingydotnet/kwiki.git
