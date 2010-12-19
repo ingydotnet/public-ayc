@@ -6,7 +6,7 @@
 #   skip: true
 #   last: true
 
-- repo: git@github.com:ingydotnet/aycabtu-public.git
+- repo: git@github.com:ingydotnet/public-ayc.git
   tags: sync
 
 # DotDotDot
@@ -14,7 +14,6 @@
   tags: sync
 - repo: git@github.com:ingydotnet/ingy-dots.git
   tags: sync dotdotdot
-
 
 # PyPi
 - repo: git@github.com:ingydotnet/package-py.git
