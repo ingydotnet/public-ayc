@@ -30,8 +30,14 @@
   tags: cpan
 - repo: git@github.com:ingydotnet/class-field-pm.git
   tags: cpan
+- repo: git@github.com:ingydotnet/cog-pm.git
+  tags: cpan cog
 - repo: git@github.com:ingydotnet/cogbase-pm.git
-  tags: cpan
+  tags: cpan cog
+- repo: git@github.com:ingydotnet/cogwiki-pm.git
+  tags: cpan cog
+- repo: git@github.com:ingydotnet/cogpix-pm.git
+  tags: cpan cog
 - repo: git@github.com:ingydotnet/error-errors-pm.git
   tags: cpan
 - repo: git@github.com:ingydotnet/gloom-pm.git
@@ -122,7 +128,6 @@
 
 # Project Wikis
 - repo: git@github.com:ingydotnet/testml.wiki.git
-- repo: git@github.com:ingydotnet/cogbase.wiki.git
 - repo: git@github.com:ingydotnet/cogbase.wiki.git
 - repo: git@github.com:ingydotnet/acmeism-org-site.wiki.git
   name: acmeism-wiki
