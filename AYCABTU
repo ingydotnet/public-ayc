@@ -7,13 +7,13 @@
 #   last: true
 
 - repo: git@github.com:ingydotnet/public-ayc.git
-  tags: sync
+  tags: sync ayc
 
 # DotDotDot
 - repo: git@github.com:ingydotnet/dotdotdot.git
-  tags: sync
+  tags: sync dots
 - repo: git@github.com:ingydotnet/ingy-dots.git
-  tags: sync dotdotdot
+  tags: sync dots
 
 # PyPi
 - repo: git@github.com:ingydotnet/package-py.git
@@ -25,7 +25,7 @@
 - repo: git@github.com:ingydotnet/acme-ybfod-pm.git
   tags: cpan
 - repo: git@github.com:ingydotnet/app-aycabtu-pm.git
-  tags: cpan sync
+  tags: cpan sync ayc
 - repo: git@github.com:ingydotnet/boolean-pm.git
   tags: cpan
 - repo: git@github.com:ingydotnet/class-field-pm.git
