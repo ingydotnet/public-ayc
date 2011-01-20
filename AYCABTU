@@ -22,6 +22,8 @@
   tags: pypi
 
 # CPAN
+- repo: git@github.com:ingydotnet/acme-pm.git
+  tags: cpan
 - repo: git@github.com:ingydotnet/acme-ybfod-pm.git
   tags: cpan
 - repo: git@github.com:ingydotnet/app-aycabtu-pm.git
@@ -38,6 +40,8 @@
   tags: cpan cog
 - repo: git@github.com:ingydotnet/cogpix-pm.git
   tags: cpan cog
+- repo: git@github.com:ingydotnet/convert-base32-crockford-pm.git
+  tags: cpan
 - repo: git@github.com:ingydotnet/error-errors-pm.git
   tags: cpan
 - repo: git@github.com:ingydotnet/gloom-pm.git
