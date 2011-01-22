@@ -28,6 +28,8 @@
   tags: cpan
 - repo: git@github.com:ingydotnet/app-aycabtu-pm.git
   tags: cpan sync ayc
+- repo: git@github.com:ingydotnet/app-xlog-pm.git
+  tags: cpan
 - repo: git@github.com:ingydotnet/boolean-pm.git
   tags: cpan
 - repo: git@github.com:ingydotnet/class-field-pm.git
