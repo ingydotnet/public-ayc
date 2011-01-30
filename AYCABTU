@@ -62,6 +62,8 @@
   tags: cpan
 - repo: git@github.com:ingydotnet/mousse-pm.git
   tags: cpan oo
+- repo: git@github.com:ingydotnet/plack-middleware-proxymap-pm.git
+  tags: cpan
 - repo: git@github.com:ingydotnet/pointer-pm.git
   tags: cpan
 - repo: git@github.com:ingydotnet/pquery-pm.git
