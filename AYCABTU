@@ -211,6 +211,7 @@
   tags: fun
 
 # Talks
+- repo: git@github.com:ingydotnet/cog-osdctw2011-talk.git
 - repo: git@github.com:ingydotnet/package-seapig2010-talk.git
 - repo: git@github.com:ingydotnet/acmeism-osdctw2010-talk.git
 - repo: git@github.com:ingydotnet/cdent-seapig2010-talk.git
