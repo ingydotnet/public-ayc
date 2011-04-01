@@ -95,6 +95,9 @@
 - repo: git@github.com:ingydotnet/yaml2-pm.git
   tags: cpan
 
+- repo: https://github.com/clkao/Web-Hippie.git
+  tags: cpan
+
 # Perl 6
 - repo: git@github.com:ingydotnet/xxx-pm6.git
 - repo: git@github.com:ingydotnet/yaml-pm6.git
